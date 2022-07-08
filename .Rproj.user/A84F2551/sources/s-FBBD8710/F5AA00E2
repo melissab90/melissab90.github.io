@@ -3,7 +3,7 @@
     "path": "C:/Users/Melisa/OneDrive/Diplomado Ciencia de Datos/Modulo 6/Codigos/CV/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1124141663",
     "contents": "",
     "dirty": false,
     "created": 1657236451896.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657236446,
+    "lastKnownWriteTime": 1657241254,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657236446,
+    "last_content_update": 1657241254556,
     "read_only": false,
     "read_only_alternatives": []
 }
